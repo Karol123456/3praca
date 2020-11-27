@@ -1,0 +1,25 @@
+
+
+*{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.main-navbar{
+    min-height: 8vh;
+    color: black;
+}
+.main-nav-link{
+    color: black;
+    font-size: 17px;
+}
+
+.imgwidth{
+    width: 300px;
+}
+
+.grid {
+    display: grid;
+    grid-gap: 10px;
+    max-width: 1200px;
+    margin-left: 17%;
+}

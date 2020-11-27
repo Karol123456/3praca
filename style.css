@@ -1,0 +1,32 @@
+
+*{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.main-nav-link{
+    color: black;
+    font-size: 17px;
+}
+
+.main-navbar{
+    min-height: 8vh;
+    color: black;
+}
+
+.bg-main{
+    color: yellow;
+}
+
+.headerrr{
+    width: 1903px;
+}
+
+.podtekst{
+    font-size: 18px;
+}
+
+.main-font{
+    color: red;
+    font-size: 50px;
+}
+
