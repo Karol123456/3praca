@@ -12,6 +12,7 @@
 .main-navbar{
     min-height: 8vh;
     color: black;
+    width: 100%;
 }
 
 .bg-main{
