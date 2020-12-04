@@ -1,6 +1,7 @@
 
 *{
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Raleway', sans-serif;
+
 }
 
 .main-nav-link{
@@ -18,7 +19,8 @@
 }
 
 .headerrr{
-    width: 1903px;
+    max-width: 100%;
+    height: auto;
 }
 
 .podtekst{
